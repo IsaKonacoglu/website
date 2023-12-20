@@ -1,9 +1,10 @@
 <h1>  website <h1>
 
-responsive yapılı web sitemi sunuyorum.
+Yeni hazırladığım örnek web sitemi sunuyorum.
 
+Kullanılan Teknolojiler
 HTML, CSS, JS kullanılarak kodlanmıstır.
 
 <h2> Ekran görüntüsü <h2>
 
-![](ekran.gif)
+![](ekran.gif.mp4)
